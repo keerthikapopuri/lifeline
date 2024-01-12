@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/activity_home.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_activity_main.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_activity_profile.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_activity_sign_up.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_fragment_appointments.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_fragment_forum.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_fragment_hospital.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_fragment_profile.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_fragment_profile_edit.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/d_fragment_profile_info.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/nav_header.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/p_fragment_forum.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/p_fragment_profile.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/p_fragment_profile_edit.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/p_fragment_profile_info.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/layout/user_item.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/menu/d_drawer_menu.xml" value="0.1578125" />
+        <entry key="..\:/AndroidStudioProjects/LifeLine---A-Doctor-Patient-Appointment-Android-App-master/Lifeline/app/src/main/res/menu/p_drawer_menu.xml" value="0.1578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

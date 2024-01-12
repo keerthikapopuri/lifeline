@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Jan 04 22:21:50 IST 2024
+0.base=D\:\\AndroidStudioProjects\\LifeLine---A-Doctor-Patient-Appointment-Android-App-master\\Lifeline\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=D\:\\AndroidStudioProjects\\LifeLine---A-Doctor-Patient-Appointment-Android-App-master\\Lifeline\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.set=DEX
